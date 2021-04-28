@@ -33,6 +33,7 @@
 		justify-content: space-between;
 		text-align: center;
 	}
+	
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.navbar-light .navbar-brand{
@@ -62,7 +63,6 @@
 		justify-content: space-between;
 		text-align: center;
 	}
-	
 }
 
 /* mobile or only mobile */

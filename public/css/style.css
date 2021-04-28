@@ -209,6 +209,10 @@ button:focus{
 .navbar-light .navbar-toggler:hover{
 	background: #ffbc3a;;
 }
+.nav-item {
+    display: flex;
+    align-self:center;
+}
 
 /*------------------------------------------------------------------
     Slider
