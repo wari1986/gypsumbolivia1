@@ -401,15 +401,25 @@ button:focus{
 }
 
 .heading-title{
-	margin-bottom: 50px;
+	margin-bottom: 0px;
 }
 .heading-title h2{
 	color: #ffbc3a;
-	font-size: 28px;
 	font-family: 'Roboto Slab',serif;
     font-weight: 500;
     padding:50px 0;
 }
+
+#headingtitle {
+    color: white;
+    background-color: #ffbc3a;
+	font-family: 'Roboto Slab',serif;
+    font-weight: 500;
+    padding:20px 0;
+    margin-top: 40px;
+    
+}
+
 .heading-title p{
 	font-size: 18px;
 	font-weight: 200;
