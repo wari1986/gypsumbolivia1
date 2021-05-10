@@ -211,7 +211,7 @@ button:focus{
 }
 .nav-item {
     display: flex;
-    align-self:center;
+    align-self:left;
 }
 
 /*------------------------------------------------------------------

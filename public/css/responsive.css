@@ -19,7 +19,9 @@
 		justify-content: space-between;
 		text-align: center;
 	}
-	
+	.top-navbar img {
+		width: 80%;
+	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1180px) {
 	.footer-area h3{
