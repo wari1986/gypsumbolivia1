@@ -22,6 +22,9 @@
 	.top-navbar img {
 		width: 80%;
 	}
+	.page-breadcrumb {
+		height: 990px;
+	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1180px) {
 	.footer-area h3{
@@ -34,6 +37,9 @@
 		display: flex;
 		justify-content: space-between;
 		text-align: center;
+	}
+	.page-breadcrumb {
+		height: 990px;
 	}
 	
 }
