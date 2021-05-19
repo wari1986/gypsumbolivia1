@@ -25,6 +25,13 @@
 	.page-breadcrumb {
 		height: 990px;
 	}
+	.modalimage img {
+		width: 100%;
+		margin-bottom: 40px;
+	}
+	.modal-title{
+		text-align: center;
+	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1180px) {
 	.footer-area h3{
