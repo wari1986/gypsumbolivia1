@@ -161,8 +161,12 @@ button:focus{
 	z-index: 10;
 }
 
+.top-navbar .navbar-brand {
+    width: 50%;
+}
+
 .top-navbar img {
-    width: 65%;
+    width: 100%;
 }
 
 .top-navbar .navbar{

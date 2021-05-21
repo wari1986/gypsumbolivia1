@@ -19,8 +19,11 @@
 		justify-content: space-between;
 		text-align: center;
 	}
+	.top-navbar .navbar-brand {
+		width: 30%;
+	}
 	.top-navbar img {
-		width: 80%;
+		width: 40%;
 	}
 	.page-breadcrumb {
 		height: 990px;
@@ -34,6 +37,9 @@
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1180px) {
+	.top-navbar .navbar-brand {
+		width: 50%;
+	}
 	.footer-area h3{
 		font-size: 18px;
 	}
@@ -60,6 +66,9 @@
 	}
 	.navbar-expand-lg .navbar-nav .dropdown-menu{
 		box-shadow: none;
+	}
+	.top-navbar .navbar-brand {
+		width: 40%;
 	}
 	.carousel-control-prev{
 		left: -60px;
@@ -91,6 +100,9 @@
 	}
 	.navbar-expand-lg .navbar-nav .dropdown-menu{
 		box-shadow: none;
+	}	
+	.top-navbar .navbar-brand {
+		width: 50%;
 	}
 	.cover-slides h1{
 		font-size: 22px;
@@ -138,7 +150,9 @@
 	
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
-	
+	.top-navbar .navbar-brand {
+		width: 50%;
+	}
 	.why-text p{
 		margin-bottom: 0px;
 		margin-top: 0px;
