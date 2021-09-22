@@ -374,7 +374,7 @@ button:focus{
 
 
 .qt-background{
-	background: url(../images/qt.jpg) no-repeat;
+	background: url(../images/qt.webp) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
@@ -396,6 +396,17 @@ button:focus{
     color: #fff;
     font-size: 20px;
 	font-weight: 500;
+}
+
+.qt-background2{
+	background: url(../images/hero-bg3.webp) no-repeat;
+	background-size: cover;
+	padding: 100px 0;
+	background-attachment: fixed;
+	background-position: center center;
+	position: relative;
+    opacity: 0.99;
+    height: 700px;
 }
 
 /*------------------------------------------------------------------
@@ -819,7 +830,7 @@ button:focus{
 
 .page-breadcrumb {
     padding: 250px 0 150px;
-    background: url(../images/bg-allpages.jpg) no-repeat;
+    background: url(../images/bg-allpages.webp) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
