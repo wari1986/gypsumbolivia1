@@ -837,6 +837,51 @@ button:focus{
     position: relative;
     height: 780px;
 }
+.page-breadcrumb-about {
+    padding: 250px 0 150px;
+    background: url(../images/planta2.webp) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 910px;
+}
+.page-breadcrumb-products {
+    padding: 250px 0 150px;
+    background: url(../images/planta5.webp) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 910px;
+}
+.page-breadcrumb-equipment {
+    padding: 250px 0 150px;
+    background: url(../images/equipos-1-300x240.jpg) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 910px;
+}
+.page-breadcrumb-portfolio {
+    padding: 250px 0 150px;
+    background: url(../images/hero-bg3.webp) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 910px;
+}
+.page-breadcrumb-contact {
+    padding: 250px 0 150px;
+    background: url(../images/secretary-contact2.webp) no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 910px;
+}
 .all-page-title .container{
 	position: relative;
 	z-index: 2;
